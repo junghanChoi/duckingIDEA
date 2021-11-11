@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.junghanchoi.duckingidea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.junghanchoi.duckingidea.MyBundle
 
 class MyApplicationService {
 
